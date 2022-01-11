@@ -42,10 +42,10 @@
 }
 .content_container {
     color: #9e8162b4;
-    max-width: 900px;
+    max-width: 600px;
     margin: 0px auto;
     padding: 0px 15px;
-    font-size: 40px;
+    font-size: 60px;
     line-height: 150%;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
